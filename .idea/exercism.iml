@@ -6,7 +6,32 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/hello-world/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/hello-world/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/hello-world/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/leap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/leap/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/leap/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/leap/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/raindrops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/raindrops/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/raindrops/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/raindrops/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/nth-prime/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/nth-prime/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/nth-prime/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/nth-prime/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/beer-song/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/beer-song/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/beer-song/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/beer-song/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/proverb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/proverb/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/proverb/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/proverb/benches" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/beer-song/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/hello-world/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/leap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/nth-prime/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/proverb/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/raindrops/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
