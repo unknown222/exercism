@@ -30,13 +30,48 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/difference-of-squares/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/difference-of-squares/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/difference-of-squares/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/sum-of-multiples/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/sum-of-multiples/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/sum-of-multiples/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/sum-of-multiples/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/grains/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/grains/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/grains/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/grains/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/prime-factors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/prime-factors/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/prime-factors/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/prime-factors/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/reverse-string/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/reverse-string/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/reverse-string/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/reverse-string/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/gigasecond/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/gigasecond/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/gigasecond/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/gigasecond/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/high-scores/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/high-scores/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/high-scores/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/high-scores/benches" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/armstrong-numbers/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/beer-song/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/difference-of-squares/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/gigasecond/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/grains/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/hello-world/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/high-scores/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/leap/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/nth-prime/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/prime-factors/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/proverb/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/raindrops/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/reverse-string/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/sum-of-multiples/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
