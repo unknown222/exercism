@@ -1,7 +1,7 @@
 pub fn reply(message: &str) -> &str {
 
-    let has_letters = message.chars().any(char::is_alphabetic);
     let trimmed_message = message.trim();
+    let has_letters = trimmed_message.chars().any(char::is_alphabetic);
 
     if trimmed_message.is_empty() {
         return "Fine. Be that way!";
@@ -18,6 +18,7 @@ pub fn reply(message: &str) -> &str {
     if trimmed_message.ends_with("?") {
         return "Sure.";
     }
+
     if trimmed_message.ends_with("!") {
         return "Whatever.";
     }
