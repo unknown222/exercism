@@ -54,7 +54,7 @@ impl Clock {
 
         Clock {
             hours: hours % 24,
-            minutes: minutes % 60
+            minutes
         }
     }
 
